@@ -4,3 +4,7 @@ I add a new row to the song file
 
 And now its very important row
 
+I add a new row to the song file
+
+Changes for stash
+
